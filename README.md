@@ -45,7 +45,7 @@ To deploy **Ninja_Phisher**, follow these steps on your terminal:
 
 ```bash
 # 1. Clone this repository
-git clone [https://github.com/CyberNinja-Tz/Ninja_Phisher](https://github.com/CyberNinja-Tz/Ninja_Phisher)
+git clone https://github.com/CyberNinja-Tz/Ninja_Phisher-v2.0
 
 # 2. Navigate to the directory
 cd Ninja_Phisher
